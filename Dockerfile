@@ -1,1 +1,1 @@
-From k8s.gcr.io/kube-apiserver:v1.15.1
+From k8s.gcr.io/pause:3.1
